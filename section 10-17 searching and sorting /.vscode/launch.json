@@ -12,7 +12,15 @@
                 "<node_internals>/**"
             ],
             // "program": "${workspaceFolder}/BinarySearch.js"
-            "program": "${workspaceFolder}/kmpsearch.js"
+            // "program": "${workspaceFolder}/kmpsearch.js"
+            // "program": "${workspaceFolder}/bubbleSort.js",
+            // "program": "${workspaceFolder}/selectionSort.js",
+            // "program": "${workspaceFolder}/insertionSort.js"
+            // "program": "${workspaceFolder}/mergeSort.js"
+            // "program": "${workspaceFolder}/quickSort.js"
+            "program": "${workspaceFolder}/radixSort.js"
+
+
 
         }
     ]
