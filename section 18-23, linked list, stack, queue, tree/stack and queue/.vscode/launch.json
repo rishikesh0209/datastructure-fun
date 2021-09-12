@@ -11,7 +11,9 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/singlyLinkedList.js",
+            // "program": "${workspaceFolder}/stack.js",
+            "program": "${workspaceFolder}/1queue.js"
+
         }
     ]
 }
